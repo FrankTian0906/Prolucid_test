@@ -24,7 +24,7 @@
         <counts>
           <entry key="class" value="5" />
           <entry key="java" value="652" />
-          <entry key="md" value="898" />
+          <entry key="md" value="900" />
           <entry key="txt" value="123" />
           <entry key="xml" value="14" />
         </counts>
@@ -33,7 +33,7 @@
         <counts>
           <entry key="CLASS" value="5" />
           <entry key="JAVA" value="652" />
-          <entry key="Markdown" value="898" />
+          <entry key="Markdown" value="900" />
           <entry key="PLAIN_TEXT" value="123" />
           <entry key="XML" value="14" />
         </counts>
@@ -103,8 +103,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="34">
-                <caret line="2" column="94" selection-start-line="2" selection-start-column="94" selection-end-line="2" selection-end-column="94" />
+              <first_editor relative-caret-position="204">
+                <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
               </first_editor>
               <second_editor />
             </state>
@@ -269,7 +269,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548365680946" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548366093128" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -330,12 +330,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548299163142</updated>
-      <workItem from="1548299174197" duration="17427000" />
+      <workItem from="1548299174197" duration="17838000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17427000" />
+    <option name="totallyTimeSpent" value="17838000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -452,8 +452,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="94" selection-start-line="2" selection-start-column="94" selection-end-line="2" selection-end-column="94" />
+          <first_editor relative-caret-position="204">
+            <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>
